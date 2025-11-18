@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer • Python • MERN Stack</h3>
 
 <p align="center">
-  <a href="https://github.com/rajni">GitHub</a> •
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a>
+  <a href="https://github.com/rajni-geek">GitHub</a> •
+  <a href="https:https://www.linkedin.com/in/r4jni/">LinkedIn</a>
 </p>
 
 ---
@@ -80,8 +80,8 @@ An API that converts audio/video into different formats using Python.
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: **https://linkedin.com/in/YOUR_LINK**  
-- Email: **your-email@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/r4jni/**  
+- Email: **rajnidss066@gmail.com**
 
 ---
 
