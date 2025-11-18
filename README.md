@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rajni 👋  
+**Full Stack Developer | Python | MERN Stack**
 
-<!--
-**rajni-geek/rajni-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I love building real projects  
+🚀 Learning React, Node.js, MongoDB, Python  
+📌 Working on full stack projects & problem solving  
+📬 Let's connect on LinkedIn!
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+- **Backend:** Node.js, Express.js, Python, Flask  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Building strong MERN projects  
+- Improving Python + DSA  
+- Becoming a confident full stack developer  
+
+### 📌 Top Projects
+- SmartTask – MERN Task Manager  
+- SkillSync – Career Recommendation App  
+- Media Converter API – Flask + FFmpeg  
